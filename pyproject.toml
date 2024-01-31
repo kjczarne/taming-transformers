@@ -31,6 +31,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = [
-    "taming",
-]
+package-dir = { "" = "src"}
